@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ESPP Calculator</string>
+    <string name="fmv_def">20</string>
+    <string name="sub_price_def">15</string>
+    <string name="sale_price_def">22</string>
+    <string name="discount_def">15</string>
+    <string name="grant_date_def">01-30-10</string>
+    <string name="purchase_date_def">06-20-10</string>
+    <string name="sale_date_def">12-15-10</string>
+    <string name="num_share_def">100</string>
+    <string name="income_tax_rate_def">25</string>
+    <string name="cap_rate_def">15</string>
+
+    <string name="grant_date_label">Grant Date (MM-DD-YY)</string>
+    <string name="purchase_date_label">Purchase Date (MM-DD-YY)</string>
+    <string name="sale_date_label">Sale Date (MM-DD-YY)</string>
+    <string name="title_activity_display_message">Disposition</string>
+</resources>
